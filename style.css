@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.s7:hover
+{
+    transform: scale(1.1);
+    transition: all 0.5s ;
+}
+
+.s9:hover
+{
+    transform: scale(1.1);
+    transition: all 0.5s ;
+}
+
+.s11:hover
+{
+    transform: scale(1.1);
+    transition: all 0.5s ;
+}
+
+
+
+.s16
+{
+    background: black;
+    width: 100%;
+    height: 400px;
+}
+
+
+
+
+.s16 li
+{
+    list-style-type: none;
+    color: white;
+    margin-top: 6px;
+}
+
+
+.sm1
+{
+    position: relative;
+    left: 50px;
+}
+
+
+
+.sm2
+{
+    position: relative;
+    left: -10px;
+}
+
+.sm3
+{
+    position: relative;
+    left: -60px;
+}
+
+
+.sm4
+{
+    position: relative;
+    left: -70px;
+}
+
+
+.sm5
+{
+    position: relative;
+    left: -90px;
+}
+
+
+
+.sm6
+{
+    position: relative;
+    left: -60px;
+}
+
+.b
+{
+    position: relative;
+    left: 40px;
+}
+
+.a
+{
+    position: relative;
+    left: -10px;
+}
+
+.g
+{
+    position: relative;
+    left: -100px;
+}
+
+
+.h
+{
+    position: relative;
+    left: -180px;
+}
+
+.i
+{
+    position: relative;
+    left: -20px;
+}
